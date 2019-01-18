@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Heather&#39;s blog</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Heather&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Islay</title>
+      <link>/2019/01/18/islay/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/18/islay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>/2019/01/18/hi/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/18/hi/</guid>
+      <description>Test blog in IslayLovin’ the hoose</description>
+    </item>
+    
+  </channel>
+</rss>
